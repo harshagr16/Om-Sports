@@ -1,0 +1,92 @@
+Q 1 Write a Java program to print 'Hello' on screen and then print your name on a separate line.
+
+Q 2  Wap to swap two numbers
+
+Q 3 How to swap two numbers without using a third variable?
+
+Q 4 wap to check is number is evenor odd.
+
+Q 5 wap to print fibonaci series .
+
+Q 6 wap to check value is within range or not
+
+
+Q 7 A school has following rules for grading system:
+ a. Below 25 - F
+ b. 25 to 45 - E
+ c. 45 to 50 - D
+ d. 50 to 60 - C
+ e. 60 to 80 - B
+ f. Above 80 - A
+ Ask user to enter marks and print the corresponding grade
+
+
+
+ Q 8 Take values of length and breadth of a rectangle from user and check if it is square or not.
+ hint is length==breath square else rectangle 
+
+ Q 9 check and print greater number among two numbers 
+
+ Q 10  check and print greater number among three numbers 
+
+
+ Q 11 Write a program to print absolute vlaue of a number entered by user. E.g.-
+ INPUT:  1        OUTPUT: 1
+ INPUT: -1        OUTPUT: 1
+
+ Hint x<0  (-1*x) else x
+
+
+ Q 12 check alphabet is in lower case (a-z)(65-90) or upper case (A-Z)(97-122)
+
+ Q 13 print the expression and see the output 
+ If
+  x = 2
+  y = 5
+  z = 0
+  then find values of the following expressions:
+  a. x == 2
+  b. x != 5
+  c. x != 5 && y >= 5
+  d. z != 0 || x == 2
+  e. !(y < 10)
+
+ Q 14 Check if a given number is leap year or not 
+
+  Leap Year contains 366 days, which comes once every four years. Every leap year corresponds to these facts : 
+
+  A century year is a year ending with 00. A century year is a leap year only if it is divisible by 400.
+  A leap year (except a century year) can be identified if it is exactly divisible by 4.
+  A century year should be divisible by 4 and 100 both.
+  A non-century year should be divisible only by 4.
+
+Q 15 wap to calculate simple interest Simple Interest = (P x T x R)/100
+ Where,
+  P is the principle amount
+  T is the time and
+  R is the rate
+
+
+suppose 
+  EXAMPLE1:-
+  Input : P = 10000
+          R = 5
+          T = 5
+  Output : 2500
+
+  We need to find simple interest on Rs. 10, 000 at the rate of 5% for 5 units of time.
+
+EXAMPLE2:
+  Input : P = 3000
+        R = 7
+        T = 1
+  Output :210
+
+Q 16 Wap to print perimeter of rectengle Perimeter of rectangle ABCD = 2A + 2B = 2(A+B)
+
+Q 17 Java Program to Check Whether the Character is Vowel or Consonant
+
+
+ Loop Questions
+
+Q18 
